@@ -1,0 +1,17 @@
+# Lightroom temporary files
+*.lrprev
+*.lrdata
+*.lrcat-journal
+*.lrcat.lock
+*.tmp
+
+# Plugin specific temporary files
+/tmp/heic_export.log
+.DS_Store
+*.stackdump
+
+# Compiled Lua files (if any)
+*.luac
+
+# User-specific export logs
+*.log
